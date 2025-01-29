@@ -1,8 +1,8 @@
 ---
 title: "About Us"
-date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+date: 2024-01-29
+heading : "WE ARE RCM COOPERATIVE"
+description : "Add details."
 expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+expertise_sectors: ["Community Management Consultation", "Community Management Training", "Coaching for community leaders", "Professional Facilitation", "Event design", "Collaborative gathering", "Communication plans", "Engagement startegy", "Stakeholder management", "Tech-stack for your community", "Community Management Training", "...and more"]
 ---

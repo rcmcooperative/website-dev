@@ -1,5 +1,5 @@
 ---
-title: "SEAMLESS WATCH"
+title: "Stakeholder Management - from mapping to engagement strategy"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
 image: "images/projects/project-thumb-three.jpg"

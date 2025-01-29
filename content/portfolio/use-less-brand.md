@@ -1,5 +1,5 @@
 ---
-title: "USE-LESS BRAND"
+title: "What is Research Technical Professionals and how Community Managers fit the bill"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/project-thumb-one.jpg"

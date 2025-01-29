@@ -1,7 +1,7 @@
 ---
 title         : "Contact"
-date          : 2019-12-23T20:17:01+06:00
-heading       : "Don’t be shy. Say <span>Hello.</span>"
+date          : 2024-01-29
+heading       : "Connect with us"
 form_heading  : "TELL US ABOUT YOUR PROJECT"
 ---
 

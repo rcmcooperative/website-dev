@@ -1,6 +1,6 @@
 baseURL       = "http://rcmcooperative.github.io"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "RCM Cooperative | Research Community Management Hub"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -20,8 +20,8 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
+    name    = "Posts"
+    url     = "post"
     weight  = 4
   [[menu.nav]]
     name    = "Get in touch"
@@ -37,7 +37,7 @@ summarylength = 25
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  description = "This website is built using Roxo Hugo themes from Design Agency Template by StaticMania"
   author = "StaticMania"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
@@ -71,8 +71,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "We believe in the power of collaboration and community"
+    tagline               = "Research Community Management - Cooperative"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
@@ -102,10 +102,8 @@ summarylength = 25
     params.footer.qr_print = false
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      title   = "Connect with us"
+      email   = "rcmcooperative@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
