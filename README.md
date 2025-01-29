@@ -11,21 +11,9 @@ We use Roxo Hugo template, shared under the open source MIT License.
 
 3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
 
+## Contact
 
-## Features
-
-* Responsive Ready.
-* Powered by Bootstrap 4.
-* Dedicated portfolio page.
-* Blog Support.
-* Well formatted code.
-* Easy Customization.
-* FabForm.io [static website form](https://fabform.io).
-* Crafted for Design Agency/ Portfolio
-
-## Support
-
-Have some question or facing any technical trouble feel free to [Contact Us](https://staticmania.com/contact/)
+Have questions for the RCM Cooperative team? [Email Us](mailto:rcmcooperative@gmail.com)
 
 ## Licensing
 
