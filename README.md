@@ -10,6 +10,7 @@ We use Roxo Hugo template, shared under the open source MIT License.
     cp -a themes/roxo-hugo/exampleSite/* .
 
 3. Build your site with `hugo serve` (make sure `hugo` is installed first) and see the result at `http://localhost:1313/`.
+4. Set to build the github page using Actions (see [guide from Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/))
 
 ## Add GitHub Actions
 
