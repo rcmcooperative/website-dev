@@ -11,7 +11,7 @@ members  :
   - image       : images/team/cass-square-100x100.jpg
     name        : Cassandra Gould van Praag
     designation : Co-Founder
-    medium      : https://www.medium.com/
+    github      : https://www.github.com/cassgvp
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
@@ -22,23 +22,23 @@ members  :
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : Team member 5
-    designation : test
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  # - image       : images/team/team-member-five.jpg
+  #   name        : Team member 5
+  #   designation : test
+  #   medium      : https://www.medium.com/
+  #   linkedin    : https://www.linkedin.com/
+  #   instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : Your name
-    designation : Your role
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  # - image       : images/team/team-member.jpg
+  #   name        : Your name
+  #   designation : Your role
+  #   medium      : https://www.medium.com/
+  #   linkedin    : https://www.linkedin.com/
+  #   instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : Your name
-    designation : Your role
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  # - image       : images/team/team-member.jpg
+  #   name        : Your name
+  #   designation : Your role
+  #   medium      : https://www.medium.com/
+  #   linkedin    : https://www.linkedin.com/
+  #   instagram   : https://www.instagram.com/
