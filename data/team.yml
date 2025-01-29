@@ -4,19 +4,19 @@ members  :
   - image       : images/team/malvika-square-100x100.jpg
     name        : Malvika Sharan
     designation : Co-Founder
-    github-square      : http://github.com/malvikasharan 
+    github      : http://github.com/malvikasharan 
     linkedin    : https://www.linkedin.com/in/malvikasharan/
 
   - image       : images/team/cass-square-100x100.jpg
     name        : Cassandra Gould van Praag
     designation : Co-Founder
-    github-square      : http://github.com/cassgvp
+    github      : http://github.com/cassgvp
     linkedin    : https://www.linkedin.com/in/cassandra-gould-van-praag-b8292a16/
 
   - image       : images/team/emma-square-100x100.jpg
     name        : Emma Karoune
     designation : Co-Founder
-    github-square      : https://github.com/EKaroune
+    github      : https://github.com/EKaroune
     linkedin    : https://www.linkedin.com/in/emma-karoune-81016137/
 
   # - image       : images/team/team-member-five.jpg
