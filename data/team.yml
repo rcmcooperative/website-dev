@@ -11,9 +11,9 @@ members  :
   - image       : images/team/cass-square-100x100.jpg
     name        : Cassandra Gould van Praag
     designation : Co-Founder
-    github      : https://www.github.com/cassgvp
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    # github      : https://www.github.com/cassgvp
+    # linkedin    : https://www.linkedin.com/
+    # instagram   : https://www.instagram.com/
 
   - image       : images/team/emma-square-100x100.jpg
     name        : Emma Karoune
