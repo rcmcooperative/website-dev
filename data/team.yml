@@ -1,30 +1,30 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/malvika.jpg
+  - image       : images/team/malvika-square-100x100.jpg
     name        : Malvika Sharan
     designation : Co-Founder
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/cass.jpg
-    name        : Cassandra Gould Van Praag
+  - image       : images/team/cass-square-100x100.jpg
+    name        : Cassandra Gould van Praag
     designation : Co-Founder
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/emma.jpg
+  - image       : images/team/emma-square-100x100.jpg
     name        : Emma Karoune
     designation : Co-Founder
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : Your name
-    designation : Your role
+  - image       : images/team/team-member-five.jpg
+    name        : Team member 5
+    designation : test
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
