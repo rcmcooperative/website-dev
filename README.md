@@ -9,7 +9,7 @@ We use Roxo Hugo template, shared under the open source MIT License.
 
     cp -a themes/roxo-hugo/exampleSite/* .
 
-3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
+3. Build your site with `hugo serve` (make sure `hugo` is installed first) and see the result at `http://localhost:1313/`.
 
 ## Add GitHub Actions
 
