@@ -11,6 +11,10 @@ We use Roxo Hugo template, shared under the open source MIT License.
 
 3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
 
+## Add GitHub Actions
+
+See guidance here: https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
 ## Contact
 
 Have questions for the RCM Cooperative team? [Email Us](mailto:rcmcooperative@gmail.com)
