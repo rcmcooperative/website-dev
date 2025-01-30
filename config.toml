@@ -137,7 +137,7 @@ publishDir = "public"
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "We help researchers:"
+        description = "empower from the bottom-up<br>co-create with ease<br>build better communities"
       [params.footer.back_to_top]
         description = "I want to <br> visit again"
