@@ -104,7 +104,7 @@ publishDir = "public"
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Connect with us"
-      email   = "rcmcooperative@gmail.com"
+      email   = "info@rcmcooperative.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"

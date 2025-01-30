@@ -18,7 +18,7 @@ See guidance here: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 ## Contact
 
-Have questions for the RCM Cooperative team? [Email Us](mailto:rcmcooperative@gmail.com)
+Have questions for the RCM Cooperative team? [Email Us](mailto:info@rcmcooperative.com)
 
 ## Licensing
 
