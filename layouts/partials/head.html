@@ -13,8 +13,8 @@
   {{ "<!-- Bootstrap -->" | safeHTML }}
   {{ $bootstrap := resources.Get "css/bootstrap.css" | minify }}
   <link rel="stylesheet" href="{{ $bootstrap.Permalink }}" />
-  {{ "<!-- font-awesome -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ "font-awesome/css/font-awesome.min.css" | absURL }}" />
+  {{ "<!-- fontawesome -->" | safeHTML }}
+  <link rel="stylesheet" href="{{ "fontawesome/css/all.min.css" | absURL }}" />
   {{ "<!-- Main Stylesheets -->" | safeHTML }}
   {{ range (slice "scss/style.scss" | append .Site.Params.custom_stylesheets) -}}
   {{ $style := resources.Get . | toCSS (dict "transpiler" "libsass" "targetPath" (replaceRE `^scss/(.*)\.scss$` "css/$1.css" .)) }}
