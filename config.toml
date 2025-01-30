@@ -129,6 +129,6 @@ publishDir = "public"
       # Footer Service
       [params.footer.service]
         title       = "We help researchers:"
-        description = "empower from the bottom-up<br>co-create with ease<br>build better communities"
+        description = "<ul style=padding:15px;margin-left:1m;color:#FFFFFF><li>empower from the bottom-up</li><li>co-create with ease</li><li>build better communities</ul>"
       [params.footer.back_to_top]
         description = "scroll up <br> to top"
