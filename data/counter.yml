@@ -1,8 +1,8 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Collaboration counts - literally!"
 counter_item: 
   - title: "Collaborators"
-    number: "20+"
+    number: "20"
 
   - title: "Community Projects"
-    number: "50+"
+    number: "50"
