@@ -1,4 +1,4 @@
-baseURL       = "http://rcmcooperative.github.io"
+baseURL       = "//www.rcmcooperative.com"
 languageCode  = "en-us"
 title         = "RCM Cooperative | Research Community Management Hub"
 theme         = "roxo-hugo"
@@ -39,7 +39,7 @@ publishDir = "public"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "This website is built using Roxo Hugo themes from Design Agency Template by StaticMania"
-  author = "StaticMania"
+  author = "RCM Cooperative"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -124,20 +124,11 @@ publishDir = "public"
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+          name = "GitHub"
+          url  = "https://github.com/rcmcooperative"
       # Footer Service
       [params.footer.service]
         title       = "We help researchers:"
         description = "<ul style=padding:15px;margin-left:1m;color:#FFFFFF><li>empower from the bottom-up</li><li>co-create with ease</li><li>build better communities</ul>"
       [params.footer.back_to_top]
-        description = "I want to <br> visit again"
+        description = "scroll up <br> to top"
