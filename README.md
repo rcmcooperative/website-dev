@@ -12,14 +12,10 @@ We use Roxo Hugo template, shared under the open source MIT License.
 3. Build your site with `hugo serve` (make sure `hugo` is installed first) and see the result at `http://localhost:1313/`.
 4. Set to build the github page using Actions (see [guide from Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/))
 
-## Add GitHub Actions
-
-See guidance here: https://gohugo.io/hosting-and-deployment/hosting-on-github/
-
 ## Contact
 
 Have questions for the RCM Cooperative team? [Email Us](mailto:info@rcmcooperative.com)
 
 ## Licensing
 
-This Repository is licensed under the [MIT](https://github.com/StaticMania/roxo-hugo/blob/master/LICENSE) License
+Code in this repository is licensed under the [MIT](https://github.com/StaticMania/roxo-hugo/blob/master/LICENSE) License. Documentation is licensed under CC-BY-4.0.
