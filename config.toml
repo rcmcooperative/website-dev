@@ -1,4 +1,4 @@
-baseURL       = "//www.rcmcooperative.com"
+baseURL       = "http://rcmcooperative.github.io/website-dev"
 languageCode  = "en-us"
 title         = "RCM Cooperative | Research Community Management Hub"
 theme         = "roxo-hugo"
