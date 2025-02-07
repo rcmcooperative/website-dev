@@ -1,6 +1,6 @@
 # RCM Cooperative: Website repo
 
-We use Roxo Hugo template, shared under the open source MIT License.
+This repo is for testing website development. The live website is at https://github.com/rcmcooperative/rcmcooperative.github.io
 
 ## Installation
 
