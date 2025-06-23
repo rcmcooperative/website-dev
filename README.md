@@ -1,6 +1,6 @@
 # RCM Cooperative: Website repo
 
-This repo is for testing website development. The live website is at https://github.com/rcmcooperative/rcmcooperative.github.io
+This repo is for testing website development. The live website is at [https://github.com/rcmcooperative/rcmcooperative.github.io](https://www.rcmcooperative.com/website-dev/)
 
 ## Installation
 
